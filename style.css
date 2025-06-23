@@ -1,0 +1,106 @@
+button{
+    background: none;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+header div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+  
+}
+
+
+.a1{
+    background-color:#2D2641;
+   
+    
+}
+.a2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.h{
+    color: white;
+    width: 540px;
+
+}
+.pp{
+    color: white;
+    font-size: 14px;
+    width: 700px;
+}
+
+.sss{
+    position: relative;
+    top: 165px;
+    
+}
+
+.but{
+color: white;
+background: none;
+width: 146px;
+height: 40px;
+}
+
+.but{
+color: white;
+background: none;
+width: 146px;
+height: 40px;
+}
+
+.b1{
+    margin-top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+}
+
+.b2{
+    width: 350px;
+    height: 250px;
+}
+
+.r2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #2D2641;
+    color: white;
+
+}
+
+.r2 h1{
+    font-size: 40px;
+    width: 400px;
+}
+.r2 button{
+    background: none;
+    color: white;
+}
+
+
+.w2{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   margin-top: 60px;
+}
+
+.el1{
+    display: flex;
+    justify-content: space-around;
+}
+
+
